@@ -1,0 +1,232 @@
+Incident Id,Industry,Location,Year,Human Errors,Machine Errors,Organization Errors,Human Error Proportion,Blame
+1,Upstream,Piper Alpha,1988,7,2,10,0.3684210526315789,2
+2,Petrochemicals,Pasadena,1989,3,1,5,0.3333333333333333,2
+3,Upstream,Ekofisk,2009,8,0,5,0.6153846153846154,1
+4,Upstream,South Pass Block,1989,4,1,3,0.5,3
+5,Upstream,Sleipner,1991,2,1,3,0.3333333333333333,2
+6,Upstream,Roncador,2001,3,1,4,0.375,3
+7,Gas Processing,Longford,1998,2,1,6,0.2222222222222222,1
+8,Upstream,Enchova,1988,2,1,3,0.3333333333333333,2
+9,Petrochemicals,Toulouse,2001,0,1,2,0.0,1
+10,Petrochemicals,Henderson,1988,2,1,1,0.5,1
+11,Gas Processing,Skikda,2004,2,0,3,0.4,1
+12,Refinery,Norco,1988,3,1,3,0.42857142857142855,2
+13,Refinery,Fort MacKay,2011,2,0,1,0.6666666666666666,2
+14,Refinery,Mina Al-Ahmadi,2000,0,2,2,0.0,1
+15,Upstream,Macondo,2010,6,3,7,0.375,2
+17,Upstream,North West Shelf,1992,0,2,1,0.0,1
+18,Petrochemicals,Pampa,1987,2,3,2,0.2857142857142857,1
+19,Upstream,Mumbai High Field,2005,2,1,4,0.2857142857142857,1
+20,Gas Processing,"Bintulu, Sarawak",1997,0,1,3,0.0,1
+21,Refinery,Texas,1998,0,1,0,0.0,1
+22,Refinery,"Pascagoula, Mississippi",2007,0,2,3,0.0,1
+23,Refinery,"Mazeikiu, Lithuania",2006,0,1,1,0.0,1
+24,Refinery,Texas City,2005,3,4,7,0.21428571428571427,1
+25,Refinery,Fort McMurray,2003,0,1,0,0.0,1
+26,Refinery,Port of Mohammedia,2002,2,1,3,0.3333333333333333,1
+27,Refinery,Lemont,2001,0,1,1,0.0,1
+28,Refinery,Carson City,2001,0,1,0,0.0,1
+29,Refinery,"Wickland, Aruba",2001,0,2,4,0.0,1
+30,Refinery,"Korfez, Gulf of Izmit",1999,0,1,3,0.0,1
+31,Refinery,Richmond,1999,0,1,0,0.0,1
+32,Refinery,"Pascagoula, Mississippi",1998,0,1,2,0.0,1
+33,Refinery,"Pembroke, Milford Haven",1994,5,3,5,0.38461538461538464,2
+34,Refinery,La Mede,1992,0,1,3,0.0,1
+35,Refinery,Sodegaura,1992,0,2,3,0.0,1
+36,Refinery,Wilmington,1992,0,1,1,0.0,1
+37,Refinery,Baton Rouge,1989,0,1,2,0.0,1
+39,Refinery,Richmond,1989,0,1,2,0.0,1
+40,Refinery,El Segundo,1988,0,1,3,0.0,1
+41,Refinery,Amuay,1984,0,1,2,0.0,1
+42,Refinery,Fort McMurray,1984,0,1,3,0.0,1
+43,Refinery,Romeoville,1984,0,1,1,0.0,1
+44,Refinery,Deer Park,1979,3,1,2,0.5,2
+45,Refinery,Texas City,1978,0,1,1,0.0,1
+46,Gas Processing,Varanus Island,2008,0,3,5,0.0,1
+47,Gas Processing,"Cactus, Reforma",1996,0,0,2,0.0,3
+48,Gas Processing,Juaymah,1987,0,1,0,0.0,1
+49,Gas Processing,Abqaiq,1978,0,1,2,0.0,1
+50,Gas Processing,Abqaiq,1977,0,1,2,0.0,1
+51,Gas Processing,Umm Said,1977,0,2,1,0.0,1
+52,Terminals And Distribution,Harare,2003,2,0,0,1.0,3
+54,Terminals And Distribution,Bantry Bay,1979,2,1,2,0.4,2
+55,Terminals And Distribution,Fairbanks,1977,0,0,3,0.0,1
+56,Terminals And Distribution,Marcus Hook,1975,4,0,4,0.5,2
+57,Upstream,"Bay of Campeche, Gulf of Mexico",2011,2,1,2,0.4,2
+58,Upstream,"Gryphon, North Sea",2011,3,2,2,0.42857142857142855,2
+59,Upstream,"Aban Pearl, Caribbean Sea",2011,0,1,0,0.0,1
+60,Upstream,"Montara, Timor Sea",2009,6,1,5,0.5,2
+61,Upstream,"Kristin Field, North Sea",2006,0,1,1,0.0,1
+62,Upstream,South China Sea,2006,0,1,1,0.0,1
+63,Upstream,"Thunder Horse, Gulf of Mexico",2005,0,1,2,0.0,1
+64,Upstream,"Temsah Field, Mediterranean",2004,0,1,1,0.0,1
+65,Upstream,Raudhatain,2002,0,1,1,0.0,1
+66,Upstream,Indonesia,1999,3,0,0,1.0,3
+67,Upstream,"Lama, Lake Maracaibo",1993,0,1,2,0.0,1
+68,Upstream,Treasure Saga,1989,0,1,1,0.0,1
+69,Upstream,Rowan Gorilla 1,1988,0,3,4,0.0,1
+70,Upstream,"Cook Inlet, Alaska",1987,0,1,3,0.0,1
+71,Upstream,"Mississippi Canyon, Gulf of Mexico",1987,0,1,0,0.0,1
+73,Upstream,"Fateh L3, Dubai",1975,0,1,1,0.0,1
+75,Petrochemicals,"Naoetsu Plant, Niigata",2007,0,1,1,0.0,2
+76,Petrochemicals,"Port Arthur, Texas",2006,0,1,0,0.0,1
+77,Petrochemicals,"Formosa Plastics, lliopolis",2004,4,2,8,0.2857142857142857,2
+78,Petrochemicals,Deer Park,1997,3,3,6,0.25,2
+79,Petrochemicals,Port Neal,1994,2,2,6,0.2,1
+80,Petrochemicals,"Belpre, Ohio",1994,0,1,4,0.0,1
+81,Petrochemicals,"Dhaka, Bangladesh",1991,0,1,1,0.0,1
+82,Petrochemicals,Sterlington,1991,0,1,0,0.0,1
+83,Petrochemicals,Pajaritos,1991,0,1,1,0.0,1
+84,Petrochemicals,Antwerp,1989,0,1,2,0.0,1
+85,Petrochemicals,Priolo,1985,0,1,1,0.0,1
+86,Petrochemicals,"Newcastle, Delaware",1980,0,1,1,0.0,1
+87,Petrochemicals,Antwerp,1975,0,1,1,0.0,1
+88,Petrochemicals,Flixborough,1974,0,1,4,0.0,1
+89,Refinery,Sunray,2007,3,3,2,0.375,2
+90,Terminals And Distribution,Buncefield,2005,4,3,10,0.23529411764705882,2
+91,Petrochemicals,Ellesmere Port,1994,3,2,5,0.3,3
+92,Petrochemicals,Castleford,1992,3,2,3,0.375,2
+93,Petrochemicals,Bradford,1992,0,1,3,0.0,1
+94,Petrochemicals,Widnes,1991,2,2,2,0.3333333333333333,2
+95,Refinery,Grangemouth,1987,3,4,5,0.25,2
+96,Refinery,Grangemouth,1987,3,1,6,0.3,2
+97,Terminals And Distribution,Dalmeny,1987,2,1,6,0.2222222222222222,1
+98,Water Supply,Abbeystead,1984,2,0,6,0.25,2
+99,Chemicals Storage,River Road,1980,2,0,2,0.5,2
+100,Chemicals Factory,King’s Lynn,1976,2,2,4,0.25,2
+101,Metallurgical Industry,Scunthorpe,1975,2,1,6,0.2222222222222222,2
+102,Chemicals Factory,Ilford,1975,3,1,4,0.375,3
+103,Construction,"Olympic Stadium, Montreal",1991,1,1,4,0.16666666666666666,1
+104,Construction,"Industrial Building, Canada",1968,1,0,3,0.25,1
+105,Construction,"Broadcasting Tower, Canada",1975,2,0,2,0.5,2
+106,Construction,"Cable Stayed Bridge, Canada",1998,0,1,4,0.0,1
+107,Construction,"Service Tunnel, Canada",2002,2,0,5,0.2857142857142857,2
+108,Construction,"One Span Highway Overpass, Canada",1995,2,0,2,0.5,2
+109,Construction,"Overpass, Canada",2008,0,1,3,0.0,1
+110,Construction,"Slope Excavation, Canada",2008,0,0,1,0.0,1
+111,Construction,"Gymnasium Roof, Canada",2009,3,1,1,0.6,3
+112,Construction,"Building, Canada",2010,2,0,3,0.4,2
+113,Construction,"Inclined Overpass, Canada",1996,1,0,3,0.25,1
+114,Construction,"Railroad Bridge, Canada",1999,0,1,3,0.0,1
+115,Refinery,New Brunswick,1998,0,2,4,0.0,1
+116,Upstream,Triton III,1987,2,1,2,0.4,2
+117,Sugar Factory,Imperial Sugar,2008,0,2,4,0.0,1
+118,Terminals And Distribution,"Chesapeake, Virginia",2008,2,2,3,0.2857142857142857,1
+119,Chemicals Factory,Bayer CropScience,2008,6,3,11,0.3,2
+120,Metallurgical Industry,Burns Harbour,2001,0,1,5,0.0,1
+121,Wastewater Plant,Daytona Beach,2006,0,1,6,0.0,1
+122,Oifield Waste Disposal Plant,Rosharon,2003,2,1,6,0.2222222222222222,2
+123,Polymers Factory,Augusta,2001,3,3,6,0.25,1
+124,Ink & Paint Factory,Danversport,2006,2,1,3,0.3333333333333333,2
+125,Chemicals Factory,Louisville,2011,0,0,2,0.0,1
+126,Chemicals Factory,Gnadenhutten,2003,0,1,6,0.0,1
+127,Chemicals Factory,Allentown,1999,0,2,4,0.0,1
+128,Fiberglass Factory,Corbin,2003,2,2,6,0.2,2
+129,Food Industry,Louisville,2003,2,3,6,0.18181818181818182,2
+130,Fireworks Storage,Hawaii,2011,0,0,4,0.0,1
+131,Chemicals Factory,Festus,2002,0,1,7,0.0,1
+132,Chemicals Factory,Glendale,2003,2,1,7,0.2,2
+133,Chemicals Factory,Belle (methyl chloride),2010,2,1,2,0.4,2
+134,Chemicals Factory,Belle (oleum),2010,0,1,3,0.0,1
+135,Chemicals Factory,Belle (phosgene),2010,2,1,6,0.2222222222222222,1
+136,Chemicals Factory,Yerkes,2010,2,2,2,0.3333333333333333,1
+137,Waste Treatment Plant,Cincinnati,2002,4,2,9,0.26666666666666666,2
+138,Waste Treatment Plant,Apex,2006,0,0,3,0.0,1
+139,Chemicals Factory,"Pascagoula, Mississippi",2002,4,2,7,0.3076923076923077,2
+140,Petrochemicals,Point Comfort,2005,2,2,2,0.3333333333333333,3
+141,Chemicals Factory,Pennington,2002,2,2,5,0.2222222222222222,2
+142,Refinery,Gallup,2004,6,1,3,0.6,3
+143,Tyre & Rubber Factory,Goodyear,2008,2,2,7,0.18181818181818182,2
+144,Metallurgical Industry,Huntington,2003,0,1,8,0.0,1
+145,Food Industry,Albert City,1998,2,1,3,0.3333333333333333,2
+146,Metallurgical Industry,Gallatin,2011,0,1,6,0.0,1
+147,Metallurgical Industry,Gallatin,2011,0,0,3,0.0,1
+148,Metallurgical Industry,Gallatin,2011,3,3,4,0.3,2
+149,Chemicals Factory,Honeywell,2003,3,2,6,0.2727272727272727,2
+150,Chemicals Factory,Honeywell,2003,2,2,3,0.2857142857142857,2
+151,Chemicals Factory,Honeywell,2003,0,2,2,0.0,1
+152,Chemicals Factory,Petrolia,2008,5,2,6,0.38461538461538464,2
+153,Chemicals Factory,Miami Township,2003,1,1,6,0.125,1
+154,Metal Signs Factory,Manhattan,2002,0,1,4,0.0,1
+155,Food Industry,Garner,2009,0,0,1,0.0,1
+156,Power Plant,Middletown,2010,0,0,2,0.0,1
+157,Gas Station,Ghent,2007,2,1,5,0.25,2
+158,Chemicals Factory,Marcus Oil & Chemical,2004,2,1,4,0.2857142857142857,3
+159,Chemicals Factory,Dalton,2004,0,0,5,0.0,1
+160,Chemicals Factory,Paterson,1998,0,2,5,0.0,1
+161,Refinery,Delaware City,2001,4,1,5,0.4,2
+162,Crystal Factory,Belvidere,2009,1,1,3,0.2,1
+163,Upstream, Raleigh,2006,0,1,5,0.0,1
+164,Refinery,Texas City,2005,2,2,5,0.2222222222222222,2
+165,Terminals And Distribution,St. Louis,2005,0,0,1,0.0,1
+166,Petrochemicals,Port Neches,2004,3,2,4,0.3333333333333333,2
+167,Chemicals Factory,Mustang,1998,5,1,6,0.4166666666666667,1
+168,Upstream,Pitkin,1998,2,2,4,0.25,1
+169,Sterilization Services,Ontario,2004,5,2,5,0.4166666666666667,2
+170,Chemicals Factory,Morganton,2006,4,1,9,0.2857142857142857,2
+171,Chemicals Factory,Jacksonville,2007,0,1,5,0.0,1
+172,Chemicals Factory,Cranston,2003,2,1,5,0.25,2
+173,Education Industry,Lubbock,2010,5,2,2,0.5555555555555556,2
+174,Chemicals Factory,Friendswood,2002,0,0,2,0.0,1
+175,Refinery,Martinez,1999,3,1,3,0.42857142857142855,2
+176,Chemicals Factory,Hahnville,1998,3,1,2,0.5,3
+177,Chemicals Factory,Bellwood,2006,0,2,5,0.0,1
+178,Refinery,Delaware City,2005,4,1,5,0.4,3
+179,Waste Treatment Plant,West Carrollton,2009,3,0,2,0.6,3
+180,Pharmaceutical Industry,Kinston,2003,0,0,6,0.0,1
+181,Hydroelectric Plant,Georgetown,2007,1,1,7,0.1111111111111111,1
+182,Upstream,Black Elk,2012,1,0,7,0.125,1
+183,Upstream,High Island Area Block A557 Platform A,2011,0,2,4,0.0,1
+184,Upstream,West Cameron Block 643 Platform A,2011,2,0,7,0.2222222222222222,1
+185,Upstream,Cajun Express,2009,2,1,7,0.2,3
+186,Upstream,Hercules Offshore Rig 120,2009,0,1,2,0.0,1
+187,Upstream,Allseas Lorelay,2006,1,2,6,0.1111111111111111,1
+188,Upstream,Hercules Offshore Rig 251,2008,6,1,6,0.46153846153846156,2
+189,Terminals And Distribution,San Bruno,2010,2,4,3,0.2222222222222222,1
+190,Terminals And Distribution,Carmichael,2007,0,1,3,0.0,1
+191,Terminals And Distribution,Carlsbad,2000,0,2,5,0.0,1
+192,Aviation,Bethany,2011,9,1,4,0.6428571428571429,3
+193,Aviation,Las Vegas,2011,3,1,6,0.3,2
+194,Aviation,Milwaukee,2007,5,1,5,0.45454545454545453,2
+195,Aviation,Phoenix,2007,5,2,4,0.45454545454545453,2
+196,Aviation,Sanford,2007,3,2,3,0.375,2
+197,Aviation,Lexington,2006,5,3,2,0.5,2
+198,Aviation,Belle Harbour,2001,3,2,3,0.375,2
+199,Aviation,East Moriches,1996,0,1,3,0.0,1
+200,Aviation,Anacapa Island,2000,1,2,4,0.14285714285714285,1
+201,Aviation,International Waters,2009,11,3,8,0.5,3
+202,Nuclear,Fukushima,2011,2,2,9,0.15384615384615385,1
+203,Aviation,San Francisco,2013,7,2,6,0.4666666666666667,2
+204,Aviation,Yuma,2011,0,0,1,0.0,1
+205,Aviation,Birmingham,2013,13,3,8,0.5416666666666666,2
+206,Transportation,Nevada,2011,6,1,5,0.5,3
+207,Terminals And Distribution,Sissonville,2012,2,3,5,0.2,1
+208,Terminals And Distribution,Cleburne,2010,3,3,6,0.25,2
+209,Terminals And Distribution,Romeoville,2010,2,3,5,0.2,1
+210,Metallurgical Industry,New Cumberland,2010,1,2,6,0.1111111111111111,1
+211,Refinery,Anacortes,2010,1,2,4,0.14285714285714285,1
+212,Upstream,Frade ,2011,2,1,4,0.2857142857142857,1
+215,Construction,"Canterbury Television, Chirstchurch",2011,0,1,6,0.0,1
+216,Construction,"Swimming Pool, Uster",1985,1,1,6,0.125,1
+217,Nuclear,"Mayak, Russia",1953,3,1,7,0.2727272727272727,3
+218,Nuclear,"Mayak, Russia",1957,1,2,6,0.1111111111111111,1
+219,Nuclear,"Mayak, Russia",1958,4,1,2,0.5714285714285714,3
+220,Nuclear,"Oak Ridge Y-12 Plant, Russia",1958,3,0,4,0.42857142857142855,2
+221,Nuclear,"Los Alamos Scientific Laboratory, USA",1958,1,1,3,0.2,1
+222,Nuclear,"Idaho Chemical Processing Plant, USA",1959,2,3,4,0.2222222222222222,2
+223,Nuclear,"Mayak, Russia",1960,1,1,3,0.2,2
+224,Nuclear,"Idaho Chemical Processing Plant, USA",1961,0,2,6,0.0,1
+225,Nuclear,"Siberian Chemical Combine, Russia",1961,2,3,3,0.25,3
+226,Nuclear,"Hanford Works, USA",1962,2,0,2,0.5,2
+227,Nuclear,"Mayak, Russia",1962,4,3,2,0.4444444444444444,3
+228,Nuclear,"Siberian Chemical Combine, Russia",1963,3,0,4,0.42857142857142855,3
+229,Nuclear,"Siberian Chemical Combine, Russia",1963,1,2,3,0.16666666666666666,2
+230,Nuclear,"United Nuclear Fuels, USA",1964,2,1,3,0.3333333333333333,2
+231,Nuclear,Electrostal Machine Building Plant,1965,1,1,3,0.2,3
+232,Nuclear,Mayak Production Association,1965,3,2,4,0.3333333333333333,1
+233,Nuclear,Mayak Production Association,1968,2,0,4,0.3333333333333333,1
+234,Nuclear,Windscale Works,1970,0,0,2,0.0,1
+235,Nuclear,Idaho Chemical Processing Plant,1978,3,2,5,0.3,2
+236,Nuclear,Siberian Chemical Combine,1978,4,0,3,0.5714285714285714,3
+237,Nuclear,Novosibirsk Chemical Concentration Plant,1997,0,2,5,0.0,1
+238,Nuclear,"JCO Fuel Fabrication Plant, Japan",1999,0,1,5,0.0,1
